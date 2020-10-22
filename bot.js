@@ -85,4 +85,4 @@ const supporters = settings.supporters;
         }
 });
 
-bot.login(process.env.BOT_TOKEN).catch(err=> console.log("Incorrect Token was provided"))
+bot.login("NzY4ODkwMDcyMjg3MjgxMTky.X5HCrg.BXmy-Y33TTfT8-SI4GEMukfl-8Y")
